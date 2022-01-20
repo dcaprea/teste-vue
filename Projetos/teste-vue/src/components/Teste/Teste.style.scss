@@ -1,0 +1,25 @@
+    $color: red;
+    #teste1{
+        width:100%;
+        height:200px;
+    }
+
+    .backgroundRed{
+        background: $color!important;
+    }
+
+    .backgroundAmarelo{
+        background: #ffcc00
+    }
+
+    .whiteText{
+        color:#fff;
+    }
+
+    .estrutura2{
+        height:300px;
+        width:100%;
+        display:flex;
+        flex-direction:column;
+        flex-wrap: wrap;
+    }
